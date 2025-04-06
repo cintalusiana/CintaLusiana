@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cintalusiana
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to create wibesite and games
+- 🌱 I’m currently learning how to create wibesite, games, and application iOS
 
 <!---
 CintaLusiana/CintaLusiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
